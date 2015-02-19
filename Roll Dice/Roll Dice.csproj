@@ -67,6 +67,22 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\images\dice1Label.png" />
+    <Content Include="assets\images\dice2Label.png" />
+    <Content Include="assets\images\five.png" />
+    <Content Include="assets\images\fiveLabel.png" />
+    <Content Include="assets\images\four.png" />
+    <Content Include="assets\images\fourLabel.png" />
+    <Content Include="assets\images\one.png" />
+    <Content Include="assets\images\oneLabel.png" />
+    <Content Include="assets\images\roll_button.png" />
+    <Content Include="assets\images\six.png" />
+    <Content Include="assets\images\sixLabel.png" />
+    <Content Include="assets\images\table.png" />
+    <Content Include="assets\images\three.png" />
+    <Content Include="assets\images\threeLabel.png" />
+    <Content Include="assets\images\two.png" />
+    <Content Include="assets\images\twoLabel.png" />
     <Content Include="css\game.css" />
     <Content Include="index.html" />
     <Content Include="Scripts\lib\easeljs-0.8.0.min.js" />
@@ -82,7 +98,6 @@
   <ItemGroup>
     <Folder Include="assets\audio\" />
     <Folder Include="assets\fonts\" />
-    <Folder Include="assets\images\" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Scripts\game.ts" />
